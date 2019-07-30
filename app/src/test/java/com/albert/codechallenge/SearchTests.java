@@ -9,10 +9,6 @@ import static org.assertj.core.api.Java6Assertions.within;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-public class FibonacciTests {
-    @Test
-    public void testCelsiusToFahrenheitConversion() {
-        final Offset<Float> precision = within(0.01f);
+public class SearchTests {
 
-    }
 }
