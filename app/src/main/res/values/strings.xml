@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search Books</string>
+    <string name="input_hint">Input Search Book</string>
+    <string name="search_result">Start from #: %s Shown: %s Found: %s</string>
+
+
+
+</resources>

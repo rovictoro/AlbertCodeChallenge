@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="recycle_view_vertical_margin">4dp</dimen>
+    <dimen name="edittext_font_size">22sp</dimen>
+    <dimen name="font_size">12sp</dimen>
+    <dimen name="fab_margin">8dp</dimen>
+
+    <dimen name="image_width">256dp</dimen>
+    <dimen name="image_height">256dp</dimen>
+
+</resources>
