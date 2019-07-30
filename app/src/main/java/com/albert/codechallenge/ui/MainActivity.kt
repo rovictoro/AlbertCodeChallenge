@@ -300,7 +300,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-        const val DEBOUNCE_DELAY: Long = 4000L
+        const val DEBOUNCE_DELAY: Long = 2000L
         val TAG = MainActivity::class.java.getSimpleName()
         private var mBundleConfigurationChangedState: Bundle? = null// = new Bundle();
         private var mBundleSaveInstanceState: Bundle? = null// = new Bundle();
