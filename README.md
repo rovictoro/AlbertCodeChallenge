@@ -1,5 +1,5 @@
 # AlbertCodeChallenge
-An Android application to search for books in the OpenLibrary project - http://openlibrary.org/.
+#An Android application to search for books in the OpenLibrary project - http://openlibrary.org/.
 Are there 2 tabs, one for searching and the other for the user’s wish list.
 User’s wish list saves is persisted in a local database.
 Search box runs a search without user having to click any buttons afte 4 seconds delay.
