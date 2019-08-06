@@ -1,4 +1,4 @@
-# AlbertCodeChallenge
+# OpenLibrary REST API using in android application
 <p>An Android application to search for books in the OpenLibrary project - http://openlibrary.org/. </p>
 <p>Are there 2 tabs, one for searching and the other for the user’s wish list.</p>
 <p>User’s wish list saves is persisted in a local database.</p>
